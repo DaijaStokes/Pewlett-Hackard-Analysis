@@ -1,5 +1,5 @@
 # Pewlett-Hackard-Analysis
-## Overview of the Pewlett-Hackar Analysis
+## Overview of the Pewlett-Hackard Analysis
 ## Results
 - Bulleted
 - List
