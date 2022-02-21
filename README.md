@@ -7,7 +7,8 @@ The purpose of this Pewlett Hackward Analysis is to help Bobby show his manager 
 are eligible for retirement based off of their birthdates.
 - The retirement table also shows tha names of the people that have unique title numbers that are eligible for retirement.
 - From the second screenshot the shows those that are able to obtain a mentorship
-- This is based upon their age requirements and the location of where they work.
+- This is based upon their age requirements and the location of where they work.<img width="569" alt="Screen Shot 2022-02-20 at 8 38 18 PM" src="https://user-images.githubusercontent.com/77857472/154875220-dfa925cd-68a1-478a-831e-adb08a2a6c5e.png">
+
 ## Summary 
 1. How many roles will need to be filled as the "silver tsunami" begins to make an impact? The number of roles that need to be filled wil be 409  roles
 
